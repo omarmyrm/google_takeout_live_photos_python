@@ -9,5 +9,5 @@ The way this program works is by deleting any .MP4 video that is shorter than 4s
 3) Run the script from the command line [cd to the chosen directory] and then [python borrar_mp4.py].
 4) Wait for the process to end without interacting with the chosen directory,
 
-#Disclaimer
+#Disclaimer:
 The modification or wrong operation of this program could lead to permanent loss of data. You to your own risk
